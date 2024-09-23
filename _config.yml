@@ -4,3 +4,5 @@ plugins:
 
 title: [TBD]
 description: [Also TBD]
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
